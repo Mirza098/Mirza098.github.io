@@ -205,14 +205,7 @@ ul li a:hover {
 }
 
 #row6{
-    width: 29vw;
-    height: 360px;
-    border: 2px solid black;
-    background: url(images/Punjabi-Panner-Masala.jpg) no-repeat center center/cover;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    border-radius: 15px;
+    width: 29vw;height: 360px;border: 2px solid black;background: url(images/Punjabi-Panner-Masala.jpg) no-repeat center center/cover;display: flex;justify-content: center;align-items: flex-end;border-radius: 15px;
 }
 
 footer{
@@ -220,12 +213,7 @@ footer{
 }
 
 #ContactUs{
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: gray;
+    width: 100vw;height: 100vh;display: flex;flex-direction: column;align-items: center;background-color: gray;
 }
 
 .form-shape input, .form-shape select, .form-shape textarea{
